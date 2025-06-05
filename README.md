@@ -6,6 +6,18 @@ An interactive dashboard built with **Google Looker Studio**, analyzing over 1 m
 
 ---
 
+## 🖼 Dashboard Screenshots
+
+### 📊 Overview Page
+
+![Dashboard Overview](assets/overview.jpg)
+
+### 🔍 In-Depth Analysis
+
+![Dashboard Analysis](assets/analysis.jpg)
+
+---
+
 ## 📌 Project Highlights
 
 - **Tool**: Google Looker Studio
