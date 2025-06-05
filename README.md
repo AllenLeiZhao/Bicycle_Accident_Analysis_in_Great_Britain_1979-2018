@@ -43,6 +43,7 @@ An interactive dashboard built with **Google Looker Studio**, analyzing over 1 m
 
 - `/data/` – Raw CSV files used for analysis
 - `/assets/` – Screenshots and dashboard visuals
+- `/report/` - Final PDF report with findings and recommendations
 - `README.md` – You are here
 
 ---
